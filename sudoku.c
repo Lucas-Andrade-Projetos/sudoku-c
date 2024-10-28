@@ -1,4 +1,6 @@
 /*
+Primeira parte de um algoritmo que cria jogos de Sudoku, usando backtracking para resolve-lo e lógica básica para preencher os valores.
+proximos passos visualização gráfica e acessibilidade.
 */
 #include <stdio.h>
 #include <stdlib.h>
